@@ -48,7 +48,7 @@ The notebook `churn_predictor` contains the following workflow:
 
 | Metric | Score |
 |-------|-------|
-| **F1 Score (Validation)** | **0.65930** |
+| **F1 Score ** | **0.65930** |
 
 
 ---
